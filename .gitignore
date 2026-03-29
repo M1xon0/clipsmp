@@ -1,0 +1,17 @@
+# Node.js
+node_modules/
+package-lock.json
+
+# Electron
+*.asar
+*.exe
+*.snap
+*.dmg
+*.app
+*.deb
+*Log.txt
+*.map
+*.log
+*.gz
+*.tgz
+*.tar
